@@ -1,0 +1,104 @@
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Mic_Starter.dll.config
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Mic_Starter.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Mic_Starter.pdb
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Antlr3.Runtime.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\AspNet.ScriptManager.bootstrap.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\AspNet.ScriptManager.jQuery.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\EntityFramework.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\EntityFramework.SqlServer.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.FriendlyUrls.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.Identity.Core.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Cookies.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Facebook.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Google.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.OAuth.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Twitter.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.ScriptManager.MSAjax.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.ScriptManager.WebForms.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Web.Infrastructure.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Newtonsoft.Json.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Owin.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\System.Web.Optimization.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\System.Web.Providers.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\WebGrease.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\System.Web.Optimization.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Antlr3.Runtime.pdb
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Newtonsoft.Json.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.FriendlyUrls.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\EntityFramework.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\EntityFramework.SqlServer.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.Identity.Core.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\System.Web.Providers.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Facebook.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Cookies.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Google.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Twitter.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.OAuth.xml
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\obj\Debug\Mic_Starter.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\obj\Debug\Mic_Starter.dll
+d:\documentos\visual studio 2013\Projects\Mic_Starter\Mic_Starter\obj\Debug\Mic_Starter.pdb
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Mic_Starter.dll.config
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Mic_Starter.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Mic_Starter.pdb
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Antlr3.Runtime.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\EntityFramework.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\EntityFramework.SqlServer.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Newtonsoft.Json.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Owin.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\System.Web.Optimization.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\System.Web.Providers.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\WebGrease.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\System.Web.Optimization.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Antlr3.Runtime.pdb
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Newtonsoft.Json.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\EntityFramework.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\EntityFramework.SqlServer.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\System.Web.Providers.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\obj\Debug\Mic_Starter.csprojResolveAssemblyReference.cache
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\obj\Debug\Mic_Starter.dll
+C:\Users\tiago.giuliatte\Downloads\Mic_Starter\Mic_Starter\Mic_Starter\obj\Debug\Mic_Starter.pdb
